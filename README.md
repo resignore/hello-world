@@ -1,5 +1,5 @@
 # hello-world
 my first rep
 
-Learning, exploring 
-growing.
+Learning, exploring and 
+growing to create a better life.
